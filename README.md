@@ -3,6 +3,7 @@ Bootstrap is a free, open source front-end development framework for the creatio
 
 Here is my presentation of a "WEBSITE with Bootstrap theme".
 
+I've attached a file of my presentation,
 To open this, some steps are to be taken:
 1. Right click on the file.
 2. Select Extract all.
